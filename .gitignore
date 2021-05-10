@@ -1,0 +1,5 @@
+# removing all media files
+*.zip
+*.odp
+*.pptx
+*.mp4
